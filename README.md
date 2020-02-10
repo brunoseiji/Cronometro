@@ -1,3 +1,3 @@
-Projeto do Curso de React
+Cronômetro utilizando React
 
-Cronômetro com função de Iniciar, Pausar e Limpar
+Cronômetro simples com função de Iniciar, Pausar e Limpar o número
